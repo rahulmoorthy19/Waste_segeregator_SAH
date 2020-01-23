@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "374882998200",
+    "firebase_url": "https://smartahack.firebaseio.com",
+    "project_id": "smartahack",
+    "storage_bucket": "smartahack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374882998200:android:f5616657a7a98fa3f8614d",
+        "android_client_info": {
+          "package_name": "com.sah.newsai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374882998200-pnnjtkagavhbmngumqenj6ejd5onlm3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sah.newsai",
+            "certificate_hash": "c61f6c4a53833fc4c920ae109f2832417b2b503b"
+          }
+        },
+        {
+          "client_id": "374882998200-hhaq3iiil04e5l96tq44b1j87anjovfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGHmQbTPtF1vVYc1Y9BkBeaKa761IZ7dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374882998200-hhaq3iiil04e5l96tq44b1j87anjovfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
